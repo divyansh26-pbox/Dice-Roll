@@ -1,0 +1,31 @@
+html{
+    height: 100%;
+}
+h1{
+    font-size: 375%;
+    
+}
+body{
+    
+    background: linear-gradient(#3F0071,#203239);
+   
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    color: beige;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+    font-size: 232%;
+    font-weight: bolder;
+  
+  }
+
+.dice img {
+    width: 55%;
+  }
